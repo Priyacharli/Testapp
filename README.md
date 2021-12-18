@@ -20,6 +20,8 @@ cd spring-petclinic
 java -jar target/*.jar
 
 India is a rich country
+
+hi shivapriya
 ```
 
 You can then access petclinic here: http://localhost:8080/
