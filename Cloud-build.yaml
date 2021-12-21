@@ -1,5 +1,4 @@
-steps:
-- name: gcr.io/cloud-builders/git
+
   args: ['clone', 'https://github.com/balasath/petclinic-repo.git']
 - name: gcr.io/cloud-builders/mvn
   entrypoint: 'bash'
