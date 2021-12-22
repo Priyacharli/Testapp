@@ -1,5 +1,4 @@
-def loadValuesYaml(){
-  def valuesYaml = readYaml (file: './metadata.yaml')
+Welcome to all
   return valuesYaml;
 }
 def repoName
