@@ -1,4 +1,4 @@
-FROM openjdk:alpine
+hello priya topenjdk:alpine
 RUN pwd
 WORKDIR /tmp
 RUN pwd
