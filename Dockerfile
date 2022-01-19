@@ -1,4 +1,4 @@
-hello priya topenjdk:alpine
+topenjdk:alpine
 RUN pwd
 WORKDIR /tmp
 RUN pwd
