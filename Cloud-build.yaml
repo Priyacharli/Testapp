@@ -3,6 +3,7 @@ steps:
   args: ['clone', 'https://github.com/balasath/petclinic-repo.git']
 - name: gcr.io/cloud-builders/mvn
   entrypoint: 'bash'
+  hi sandeep biradar
   args:
   - '-c'
   - |
