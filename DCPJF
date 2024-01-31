@@ -1,6 +1,7 @@
 def repoName
 def repoURL
 def branchName
+hi priya are you ok
 pipeline {
   agent any
   tools {
